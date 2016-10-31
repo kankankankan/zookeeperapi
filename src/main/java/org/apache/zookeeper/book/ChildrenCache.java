@@ -22,7 +22,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Auxiliary cache to handle changes to the lists of tasks and of workers.
+ * Auxiliary cache to handle changes to the lists of tasks and of workers.sdfasdfa
  */
 
 public class ChildrenCache {
